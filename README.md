@@ -1,9 +1,9 @@
-### Welcome To My GitHub Profile 👋
+# Welcome To My GitHub Profile 👋
 
 ## Hi there 👋
-# My name is Huy, Front-end Internship in Ho Chi Minh City, Viet Nam
-# Nice to meet you 😄
-# I'm looking forward to working and learning more from you guys 😄
+### My name is Huy, Front-end Internship in Ho Chi Minh City, Viet Nam
+### Nice to meet you 😄
+### I'm looking forward to working and learning more from you guys 😄
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
