@@ -9,6 +9,7 @@
 - FPT University Ho Chi Minh Campus
 - Major: Software Engineering
 
+### Other Informations:
 - 🔭 I’m currently a front-end internship.
 - 🌱 Tool used for work: Visual Studio Code, Nicepage, Canva,...
 - 💬 Programming Language: Html, Css, Javascript.
