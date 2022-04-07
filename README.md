@@ -1,10 +1,9 @@
-### Hi there 👋
+### Welcome To My GitHub Profile 👋
 
-<!--
-**TranMinhHuy1404/TranMinhHuy1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there 👋
+# My name is Huy, Front-end Internship in Ho Chi Minh City, Viet Nam
+# Nice to meet you 😄
+# I'm looking forward to working and learning more from you guys 😄
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
